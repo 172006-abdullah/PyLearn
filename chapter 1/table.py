@@ -1,0 +1,1 @@
+no =int("enter a number")
