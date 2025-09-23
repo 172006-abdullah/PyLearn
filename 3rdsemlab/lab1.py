@@ -16,10 +16,10 @@ else:
 '''
 
 student={"abdullah":78,
-         "zoro":86,
-         "zi zu":90,
-         "shahzy":100,
-         "jedii":67
+"zoro":86,
+"zi zu":90,
+"shahzy":100,
+"jedii":67
 }
 
 for i in student:
